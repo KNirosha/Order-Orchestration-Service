@@ -1,0 +1,23 @@
+{
+  "orderNumber": 12345,
+  "dateCreated": "2019-02-11T07:03:18.211+0000",
+  "dateLastModified": "2019-02-11T07:03:18.211+0000",
+  "orderStatus": "CREATED",
+  "billingAddress": {
+    "flatNo": "12A",
+    "street": null,
+    "city": "SANCARLOS",
+    "state": "SFO",
+    "countryCode": "USA",
+    "zipcode": "123456",
+    "email": "test@gmail.com"
+  },
+  "charges": {
+    "basePrice": 267,
+    "taxRate": 8.5,
+    "taxPrice": 45,
+    "shippingCharges": 26,
+    "handlingCharges": 12.5,
+    "totalPrice": 359
+  }
+}
